@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+NOTA: Para poder consumir las APIs de back debe subir primero el servicio localmente del MS-PERSON en el puerto 8080, luego ya puede subir este proyecto para poder sincronizar la funcionalidad.
+
 ## Available Scripts
 
 In the project directory, you can run:
